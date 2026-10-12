@@ -1,0 +1,11 @@
+data/*
+data8192/*
+bin/*
+.git/
+.vscode/
+*.dat
+*.idx
+*.csv
+*.csv.gz
+*.zip
+*.pdf
